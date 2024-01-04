@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm currently studying Data Science at Gujarat University. Explore my projects and get to know more about me below.
 
 ![Header](  )
-![github-header-image](https://github.com/j-a-y-e-s-h/j-a-y-e-s-h/assets/75063311/11417598-ed2d-4db5-b006-6c39f325cceb)
+![Header](https://github.com/j-a-y-e-s-h/j-a-y-e-s-h/assets/75063311/11417598-ed2d-4db5-b006-6c39f325cceb)
 
 
 
