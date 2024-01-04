@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm currently studying Data Science at Gujarat University. Explore my projects and get to know more about me below.
 
-[![Heading](https://pin.it/4OKFbrj)
+![banner](https://github.com/j-a-y-e-s-h/j-a-y-e-s-h/assets/75063311/75489e2e-d5c5-40a0-a883-e06bd512becc)
 
 
 # 💻 Tech Stack:
