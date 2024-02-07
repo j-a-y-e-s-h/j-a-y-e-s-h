@@ -48,7 +48,7 @@ Feel free to explore these projects and provide any feedback!
 
 ![](https://github-profile-trophy.vercel.app/?username=j-a-y-e-s-h&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###### Feel free to connect with me at [jayeshp4569@gmail.com](mailto:jayeshp4569@gmail.com) or explore more on [LinkedIn](https://www.linkedin.com/in/jayeshpatel4569/).
+###### Feel free to connect with me at [jayeshp4569@gmail.com](mailto:jayeshp3699@gmail.com) or explore more on [LinkedIn](https://www.linkedin.com/in/j-a-y-e-s-h?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 [![](https://visitcount.itsvg.in/api?id=j-a-y-e-s-h&icon=0&color=0)](https://visitcount.itsvg.in/)
 
