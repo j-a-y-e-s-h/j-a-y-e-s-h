@@ -60,8 +60,4 @@ Feel free to explore these projects and provide any feedback!
 
 ![](https://github-contributor-stats.vercel.app/api?username=j-a-y-e-s-h&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
