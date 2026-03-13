@@ -56,8 +56,4 @@ Feel free to explore these projects and provide any feedback!
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=j-a-y-e-s-h&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
