@@ -1,6 +1,6 @@
 <!-- ████████████████████  HEADER  ████████████████████ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a2e,65:003554,100:00D9FF&height=240&section=header&text=Jayesh%20Patel&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%20•%20%20Full-Stack%20Developer%20%20•%20%20Odoo%20Specialist&descAlignY=63&descColor=00D9FF&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a2e,65:003554,100:00D9FF&height=240&section=header&text=Jayesh%20Parmar&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%20•%20%20Full-Stack%20Developer%20%20•%20%20Odoo%20Specialist&descAlignY=63&descColor=00D9FF&animation=fadeIn" />
 </div>
 
 <!-- Animated typing -->
@@ -54,7 +54,7 @@
 
 ```json
 {
-  "name"         : "Jayesh Patel",
+  "name"         : "Jayesh Parmar",
   "primary_role" : "AI / ML Engineer",
   "also_builds"  : ["Full-Stack Web Apps (MERN)", "Odoo ERP Modules"],
   "location"     : "Gujarat, India 🇮🇳  (Remote-friendly ✅)",
@@ -313,7 +313,7 @@ facts = [
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Jayesh_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-a-y-e-s-h)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Jayesh_Parmar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-a-y-e-s-h)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Email%20Me-jayeshp3699%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshp3699@gmail.com)
 &nbsp;
